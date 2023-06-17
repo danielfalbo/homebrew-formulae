@@ -1,8 +1,8 @@
 class Blockchainlab < Formula
   desc "Blockchain Laboratory: Bitcoin experiments."
   homepage "https://github.com/danielfalbo/blockchainlab"
-  url "https://github.com/danielfalbo/blockchainlab/releases/download/v0.0.6/blockchainlab.jar"
-  sha256 "0864e65acbd44c9c4b38a861d8401c4cd36f8580009b1bbd00e12794456287fb"
+  url "https://github.com/danielfalbo/blockchainlab/releases/download/v0.0.10/blockchainlab.jar"
+  sha256 "eed1cc5c7168f8fc1bab6d23a02e9710980cc721e64ba934a08b5156590815d3"
 
   depends_on "openjdk@11"
 
