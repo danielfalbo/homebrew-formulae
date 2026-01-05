@@ -1,9 +1,9 @@
 class Picturephone < Formula
   desc "Ascii video-conferencing in the terminal."
- 	version "5"
+ 	version "6"
   homepage "https://github.com/danielfalbo/picturephone.c"
-  url "https://github.com/danielfalbo/picturephone.c/archive/refs/tags/v5.tar.gz"
-  sha256 "cd0f6e7da69e52829decd4b7030eb1ebf43fa2934e50d59cf75526dc23fe2ea7"
+  url "https://github.com/danielfalbo/picturephone.c/archive/refs/tags/v6.tar.gz"
+  sha256 "c949cbe7e58933d778be44a9809036b2e15afe07183aa3db45703c8889eff32f"
 
   def install
     system "make"
